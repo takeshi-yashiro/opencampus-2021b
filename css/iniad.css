@@ -34,3 +34,10 @@ h3 {
   color: #cc0000;
   font-size: 30px;
 }
+td {
+  padding-left: 4px;
+  border: solid 4px #cc0000;
+  font-weight: bold;
+  color: #cc0000;
+  font-size: 30px;
+}
