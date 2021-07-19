@@ -41,3 +41,7 @@ td {
   color: #cc0000;
   font-size: 30px;
 }
+
+.language{
+    float: right;
+}
