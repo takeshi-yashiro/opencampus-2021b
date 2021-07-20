@@ -36,8 +36,10 @@ h3 {
 }
 td {
   padding-left: 4px;
+  width:300px;
   border: solid 4px #cc0000;
   font-weight: bold;
+  text-align: center;
   color: #cc0000;
   font-size: 18px;
 }
