@@ -47,3 +47,18 @@ td {
 .language{
     float: right;
 }
+
+#header{
+    height: 40px;
+    background-color: #17194c;
+}
+
+#header img{
+    margin-left: 20px;
+    height: 90%;
+}
+
+#header a{
+    margin-right: 10px;
+    color: white;
+}
